@@ -40,3 +40,4 @@ var robertObject = {
 };
 console.log(robertObject.favoriteFood);
 console.log(robertObject.firstName,robertObject.lastName);
+console.log(robertObject.firstName,robertObject.lastName, "is",robertObject.age, "and likes to eat",robertObject.favoriteFood)
